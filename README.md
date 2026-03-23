@@ -34,7 +34,6 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 ## Tools
 
 - [fluxer-rpc](https://github.com/letruxux/fluxer-rpc) - mirror your discord rpc to fluxer! 〰️
-- [Midnight Tools](https://github.com/BubbaXM/Midnight-Tools/) - Custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients
 - [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
 - [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 
