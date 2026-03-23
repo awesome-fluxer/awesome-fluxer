@@ -14,38 +14,30 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
 ## Libraries
 
-| Name | Description | Author | Fluxer Community Link | Website |
-|------|-------------|--------|-----------------------|---------|
-| Fluxify | .NET library for Fluxer | zCore#0001 (fluxer) | https://fluxer.gg/rOulAK5g | https://github.com/Eschryn/Fluxify |
-| Fluxer.py (Python) | A Python library for building Fluxer applications. | akarealemil (github) | https://fluxer.gg/fluxer-py | https://github.com/akarealemil/fluxer.py |
-| Fluxer.NET (C#) | A C# library for building Fluxer applications. | Nexfinity (github) | https://fluxer.gg/fluxer-net | https://fluxer.net/ |
-| Fluxer.JS (JS) | A JavaScript library for building Fluxer applications. | Fluxer.JS Team | https://fluxer.gg/fluxer-js | https://fluxer.js.org/ |
-| FluxerGo (Go) | A Go library for building Fluxer applications. | FluxerGo Team | https://fluxer.gg/fluxer-go | https://github.com/fluxergo/fluxergo |
-| fluxer-rust (Rust) | A Rust written API Wrapper for the Discord alternative Fluxer. | saber#0001 (fluxer) | https://fluxer.gg/LG0Yt0xS | https://github.com/vesaber/fluxer-rust |
-| Fluxer.RUST (Rust) | Full Rust API library for Fluxer. | DeviMorris#1111 (fluxer) | https://fluxer.gg/J1M6Bd0G | https://github.com/DeviMorris/Fluxer.RUST |
+- [Fluxer.py](https://github.com/akarealemil/fluxer.py) (Python) - Python API Wrapper for Fluxer App
+- [Fluxify](https://github.com/Eschryn/Fluxify) (C#) - .NET library for Fluxer
+- [Fluxer.NET](https://fluxer.net/) (C#) - .NET library for building bots and applications on the Fluxer platform
+- [Fluxer.JS](https://fluxer.js.org/) (JS) - SDK for building bots on Fluxer
+- [FluxerGo](https://github.com/fluxergo/fluxergo) (Go) - Go Library for building Fluxer applications (fork of [DisGo](https://github.com/disgoorg/disgo))
+- [fluxer-rust](https://github.com/vesaber/fluxer-rust) (Rust) - Rust written API Wrapper for the Discord alternative Fluxer
+- [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
 
 ## Bots
 
-| Name | Description | Author | Fluxer Community Link | Website |
-|------|-------------|--------|-----------------------|---------|
-| Fluxy | Everything you need to run a safe, well-organized Fluxer server. | dogbone#0069 (fluxer) | https://fluxer.gg/fluxy | https://fluxy.dorcus.digital/ |
-| Bloo | A powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more — all wrapped in one slimy little package. | The Bloo Team | https://fluxer.gg/DqwWxYSX | https://bloo-bot.xyz/ |
-| Nevi | A powerful, feature-rich Fluxer bot built for communities that demand more. | Nevulo Studios | https://fluxer.gg/rlvutv1c | https://nevi.nev.so/ |
-| Fishing Bucket | Fishing Bucket is a Fluxer bot that proxies messages as different users | hellishbro#0001 (fluxer) | https://fluxer.gg/jpXCwfto | https://github.com/HellishBro/FishingBucket |
-| Fluxer.Red | A multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED) | aikaterna#0000 (fluxer) | https://invite.fluxer.red/ | https://github.com/Red-Fluxer-Patches/Red-DiscordBot |
+- [Fluxy](https://fluxy.dorcus.digital/) - Everything you need to run a safe, well-organized Fluxer server
+- [Bloo](https://bloo-bot.xyz/) - Powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more
+- [Nevi](https://nevi.nev.so/) - Powerful, feature-rich Fluxer bot built for communities that demand more
+- [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
+- [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
 
 ## Tools
 
-| Name | Description | Author | Fluxer Community Link | Website |
-|------|-------------|--------|-----------------------|---------|
-| fluxer-rpc | mirror your discord rpc to fluxer! 〰️ | letruxux (github) | https://fluxer.gg/Roi7rTTU | https://github.com/letruxux/fluxer-rpc |
-| Midnight Tools | Midnight is a custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients. | bubbaxm#2602 (fluxer) | https://fluxer.gg/keaHq6z7 | https://github.com/BubbaXM/Midnight-Tools/ |
-| BetterFluxer | Plugin Injector for the Fluxer.app desktop client | bipolardoll#6969 (fluxer), envision#0001 (fluxer) | https://fluxer.gg/lyb73P8g | https://github.com/RoxyBoxxy/BetterFluxer |
-| Reflux | A simple plugin injector for Fluxer. | Its3rr0rsWRLD (github) | TBD | https://github.com/Its3rr0rsWRLD/Reflux |
+- [fluxer-rpc](https://github.com/letruxux/fluxer-rpc) - mirror your discord rpc to fluxer! 〰️
+- [Midnight Tools](https://github.com/BubbaXM/Midnight-Tools/) - Custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients
+- [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
+- [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 
 ## Bridges
 
-| Name | Description | Author | Fluxer Community Link | Website |
-|------|-------------|--------|-----------------------|---------|
-| Fluxcord | A Discord <-> Fluxer bridge. | jb#1234 (fluxer) | https://fluxer.gg/waf | https://fluxcord.jbcrn.dev/ |
-| Bifröst | A Discord-Fluxer-Bridge | KartoffelChipss#0880 (fluxer) | https://fluxer.gg/Ry74DOAt | https://github.com/KartoffelChipss/bifrost |
+- [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
+- [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
