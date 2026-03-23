@@ -38,6 +38,10 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
 | Name | Description | Author | Fluxer Community Link | Website |
 |------|-------------|--------|-----------------------|---------|
+| fluxer-rpc | mirror your discord rpc to fluxer! 〰️ | letruxux (github) | https://fluxer.gg/Roi7rTTU | https://github.com/letruxux/fluxer-rpc |
+| Midnight Tools | Midnight is a custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients. | bubbaxm#2602 (fluxer) | https://fluxer.gg/keaHq6z7 | https://github.com/BubbaXM/Midnight-Tools/ |
+| BetterFluxer | Plugin Injector for the Fluxer.app desktop client | bipolardoll#6969 (fluxer), envision#0001 (fluxer) | https://fluxer.gg/lyb73P8g | https://github.com/RoxyBoxxy/BetterFluxer |
+| Reflux | A simple plugin injector for Fluxer. | Its3rr0rsWRLD (github) | TBD | https://github.com/Its3rr0rsWRLD/Reflux |
 
 ## Projects
 
