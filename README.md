@@ -21,6 +21,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [FluxerGo](https://github.com/fluxergo/fluxergo) (Go) - Go Library for building Fluxer applications (fork of [DisGo](https://github.com/disgoorg/disgo))
 - [fluxer-rust](https://github.com/vesaber/fluxer-rust) (Rust) - Rust written API Wrapper for the Discord alternative Fluxer
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
+- [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
 
 ## Bots
 
