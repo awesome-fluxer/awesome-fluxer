@@ -31,6 +31,8 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
 - [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
 - [Nero](https://usenero.app?utm_medium=awesome-fluxer) - A Fluxer Music Bot with crossfading, multiple platforms, and limitless queues
+- [Counting Bot](https://web.fluxer.app/oauth2/authorize?client_id=1484113258352640042&scope=bot&permissions=76864) - The first counting bot on Fluxer
+- [flux.fm](https://web.fluxer.app/oauth2/authorize?client_id=1475269057539605364&scope=bot&permissions=68608) - Last.fm with friends!
 
 ## Tools
 
