@@ -22,7 +22,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 | Fluxer.JS (JS) | A JavaScript library for building Fluxer applications. | Fluxer.JS Team | https://fluxer.gg/fluxer-js | https://fluxer.js.org/ |
 | FluxerGo (Go) | A Go library for building Fluxer applications. | FluxerGo Team | https://fluxer.gg/fluxer-go | https://github.com/fluxergo/fluxergo |
 | fluxer-rust (Rust) | A Rust written API Wrapper for the Discord alternative Fluxer. | saber#0001 (fluxer) | https://fluxer.gg/LG0Yt0xS | https://github.com/vesaber/fluxer-rust |
-| Fluxer.RUST (Rust) | Full Rust API library for Fluxer. | DeviMorris#1111 | https://fluxer.gg/J1M6Bd0G | https://github.com/DeviMorris/Fluxer.RUST |
+| Fluxer.RUST (Rust) | Full Rust API library for Fluxer. | DeviMorris#1111 (fluxer) | https://fluxer.gg/J1M6Bd0G | https://github.com/DeviMorris/Fluxer.RUST |
 
 ## Bots
 
