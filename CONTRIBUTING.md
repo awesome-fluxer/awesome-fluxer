@@ -9,17 +9,16 @@
 
 ### Add something to the list (submit a PR)
 
-- Edit README.md to include your proposed addition at the end of the relevant table. If a relevant table does not exist, feel free to make a new generalized section after all existing sections and relevant table.
+- Edit README.md to include your proposed addition at the end of the relevant section. If a relevant section does not exist, feel free to make a new generalized section after all existing sections.
 
 ### Remove something from the list (submit a PR)
 
-- Remove the item you want from the relevant table.
+- Remove the item you want from the relevant section.
 
 ### Other guidelines
 
 In addition to guidelines listed in the [Pull Request template](.github/PULL_REQUEST_TEMPLATE.md), these general rules help keep the list consistent:
-- Ideally, fill out every table column for the row you're adding.
-- For the Author column, note which platform a username corresponds to (e.g. (fluxer), (github), etc.)
+- Ensure your entry follows the same pattern as other entries: `[Project Name](Project URL) - Project Description`.
 - Prefer shorter forms for descriptions - for example, `Minimalist text adventure game` would be preferred to `A minimalist text adventure game` or `$PROJECT is a minimalist text adventure game`).
 - If the the project has no documentation in English, please add `(documentation in $LANGUAGE)` at the end of the description.
 - If the project is presented as an alternative to another service or application, please mention it as `(alternative to $PRODUCT1, $PRODUCT2)` at the end of the description.
