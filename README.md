@@ -31,6 +31,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
 - [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
 - [Nero](https://usenero.app?utm_medium=awesome-fluxer) - A Fluxer Music Bot with crossfading, multiple platforms, and limitless queues
+- [Remix](https://github.com/NoLogicAlan/fluxer) - is an advanced music bot for Fluxer. It is compatible with all the music streaming services for free. All the power just a click away!
 
 ## Tools
 
