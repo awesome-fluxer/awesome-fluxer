@@ -29,6 +29,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Nevi](https://nevi.nev.so/) - Powerful, feature-rich Fluxer bot built for communities that demand more
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
 - [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
+- [Nero](https://usenero.app?utm_medium=awesome-fluxer) - A Fluxer Music Bot with crossfading, multiple platforms, and limitless queues
 
 ## Tools
 
