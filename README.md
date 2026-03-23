@@ -8,7 +8,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Libraries](#libraries)
 - [Bots](#bots)
 - [Tools](#tools)
-- [Projects](#projects)
+- [Bridges](#bridges)
 
 ---
 
@@ -43,7 +43,9 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 | BetterFluxer | Plugin Injector for the Fluxer.app desktop client | bipolardoll#6969 (fluxer), envision#0001 (fluxer) | https://fluxer.gg/lyb73P8g | https://github.com/RoxyBoxxy/BetterFluxer |
 | Reflux | A simple plugin injector for Fluxer. | Its3rr0rsWRLD (github) | TBD | https://github.com/Its3rr0rsWRLD/Reflux |
 
-## Projects
+## Bridges
 
 | Name | Description | Author | Fluxer Community Link | Website |
 |------|-------------|--------|-----------------------|---------|
+| Fluxcord | A Discord <-> Fluxer bridge. | jb#1234 (fluxer) | https://fluxer.gg/waf | https://fluxcord.jbcrn.dev/ |
+| Bifröst | A Discord-Fluxer-Bridge | KartoffelChipss#0880 (fluxer) | https://fluxer.gg/Ry74DOAt | https://github.com/KartoffelChipss/bifrost |
