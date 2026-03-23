@@ -1,5 +1,7 @@
 # Contributing
 
+This is adapted from [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/df4c6eeaeb086099409bd3e85a87af88e10fc6ec/CONTRIBUTING.md).
+
 ### Curation
 
 - Software with no development activity for 6-12 months may be removed from the list
