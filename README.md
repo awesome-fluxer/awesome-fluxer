@@ -33,6 +33,7 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Nero](https://usenero.app?utm_medium=awesome-fluxer) - A Fluxer Music Bot with crossfading, multiple platforms, and limitless queues
 - [Counting Bot](https://web.fluxer.app/oauth2/authorize?client_id=1484113258352640042&scope=bot&permissions=76864) - The first counting bot on Fluxer
 - [flux.fm](https://web.fluxer.app/oauth2/authorize?client_id=1475269057539605364&scope=bot&permissions=68608) - Last.fm with friends!
+- [Tags](https://web.fluxer.app/oauth2/authorize?client_id=1474103158839230644&scope=bot&permissions=4503599627389952) - A quick and handy FaQ bot for Fluxer and Developers.
 
 ## Tools
 
