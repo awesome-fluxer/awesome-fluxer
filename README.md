@@ -44,3 +44,4 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
+- [Bolt](https://web.fluxer.app/oauth2/authorize?client_id=1475325351081992483&scope=bot&permissions=8) - Supports: Discord, Stoat, Telegram, Matrix and Fluxer ([more info](https://williamhorning.dev/bolt/))!
