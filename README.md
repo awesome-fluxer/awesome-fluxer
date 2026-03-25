@@ -1,6 +1,8 @@
 # awesome-fluxer
 A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ---
 
 ## Table of contents
