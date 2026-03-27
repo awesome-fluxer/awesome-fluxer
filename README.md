@@ -1,6 +1,8 @@
 # awesome-fluxer
 A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
+See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main/CONTRIBUTING.md).
+
 ---
 
 ## Table of contents
@@ -31,6 +33,9 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
 - [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
 - [Nero](https://usenero.app?utm_medium=awesome-fluxer) - A Fluxer Music Bot with crossfading, multiple platforms, and limitless queues
+- [Counting Bot](https://web.fluxer.app/oauth2/authorize?client_id=1484113258352640042&scope=bot&permissions=76864) - The first counting bot on Fluxer
+- [flux.fm](https://web.fluxer.app/oauth2/authorize?client_id=1475269057539605364&scope=bot&permissions=68608) - Last.fm with friends!
+- [Tags](https://web.fluxer.app/oauth2/authorize?client_id=1474103158839230644&scope=bot&permissions=4503599627389952) - Quick and handy FaQ bot for Fluxer and Developers
 - [Remix](https://github.com/remix-bot/fluxer) - Advanced music bot for Fluxer. It is compatible with all the music streaming services for free. All the power just a click away!
 
 ## Tools
@@ -43,3 +48,4 @@ A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
+- [Bolt](https://web.fluxer.app/oauth2/authorize?client_id=1475325351081992483&scope=bot&permissions=8) - Supports: Discord, Stoat, Telegram, Matrix and Fluxer ([more info](https://williamhorning.dev/bolt/))!
