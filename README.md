@@ -43,6 +43,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-rpc](https://github.com/letruxux/fluxer-rpc) - mirror your discord rpc to fluxer! 〰️
 - [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
 - [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
+- [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 
 ## Bridges
 
