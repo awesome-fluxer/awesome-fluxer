@@ -38,6 +38,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [flux.fm](https://web.fluxer.app/oauth2/authorize?client_id=1475269057539605364&scope=bot&permissions=68608) - Last.fm with friends!
 - [Tags](https://web.fluxer.app/oauth2/authorize?client_id=1474103158839230644&scope=bot&permissions=4503599627389952) - Quick and handy FaQ bot for Fluxer and Developers
 - [Remix](https://github.com/remix-bot/fluxer) - Advanced music bot for Fluxer. It is compatible with all the music streaming services for free. All the power just a click away!
+- [Functious](https://github.com/forgetfulskybro/Fluxer-Functious) - Simple bot that gives you temporary channels, reaction roles, timezone conversion, poll system, giveaways and autoroles
 
 ## Tools
 
