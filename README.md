@@ -25,6 +25,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
+- [Lightning](https://williamhorning.dev/lightning/framework/) (Go) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
 
 ## Bots
 
@@ -53,4 +54,4 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
-- [Bolt](https://web.fluxer.app/oauth2/authorize?client_id=1475325351081992483&scope=bot&permissions=8) - Supports: Discord, Stoat, Telegram, Matrix and Fluxer ([more info](https://williamhorning.dev/bolt/))!
+- [Bolt](https://williamhorn.ing/bolt) - Bridge supporting Discord, Spacebar, Stoat, Telegram, Matrix, and more
