@@ -21,11 +21,11 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer.NET](https://fluxer.net/) (C#) - .NET library for building bots and applications on the Fluxer platform
 - [Fluxer.JS](https://fluxer.js.org/) (JS) - SDK for building bots on Fluxer
 - [FluxerGo](https://github.com/fluxergo/fluxergo) (Go) - Go Library for building Fluxer applications (fork of [DisGo](https://github.com/disgoorg/disgo))
+- [Lightning](https://williamhorning.dev/lightning/framework/) (Go) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
 - [fluxer-rust](https://github.com/vesaber/fluxer-rust) (Rust) - Rust written API Wrapper for the Discord alternative Fluxer
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
-- [Lightning](https://williamhorning.dev/lightning/framework/) (Go) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
 
 ## Bots
 

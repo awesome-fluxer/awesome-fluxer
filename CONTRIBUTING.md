@@ -11,7 +11,7 @@ This is adapted from [awesome-selfhosted](https://github.com/awesome-selfhosted/
 
 ### Add something to the list (submit a PR)
 
-- Edit README.md to include your proposed addition at the end of the relevant section. If a relevant section does not exist, feel free to make a new generalized section after all existing sections.
+- Edit README.md to include your proposed addition at the end of the relevant section - or in the libraries section, after all other items of the same language. If a relevant section does not exist, feel free to make a new generalized section after all existing sections.
 
 ### Remove something from the list (submit a PR)
 
