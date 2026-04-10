@@ -13,7 +13,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Bots](#bots)
 - [Tools](#tools)
 - [Bridges](#bridges)
-- [Themes](#themes)
+- [Theme tools](#theme-tools)
 
 ---
 
@@ -60,6 +60,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
 - [Bolt](https://williamhorn.ing/bolt) - Bridge supporting Discord, Spacebar, Stoat, Telegram, Matrix, and more
 
-## Themes
+## Theme tools
 
 - [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
