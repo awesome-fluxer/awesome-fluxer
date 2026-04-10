@@ -26,6 +26,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
+- [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
 
 ## Bots
 
