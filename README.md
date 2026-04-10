@@ -1,6 +1,8 @@
 # awesome-fluxer
 A community-maintained list of Fluxer projects, libraries, utilities, and more.
 
+![last commit badge](https://img.shields.io/github/last-commit/awesome-fluxer/awesome-fluxer)
+
 See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main/CONTRIBUTING.md).
 
 ---
