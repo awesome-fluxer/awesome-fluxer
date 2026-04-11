@@ -54,6 +54,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
 
+## Plugins
+
+- [fluxer-vscode](https://github.com/3urobeat/fluxer-vscode) - Update your Fluxer status with your VSCode/ium activity!
+
 ## Bridges
 
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
