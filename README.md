@@ -15,6 +15,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Theme tools](#theme-tools)
+- [Hosting](#hosting)
 
 ---
 
@@ -69,3 +70,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Theme tools
 
 - [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
+
+## Hosting
+- [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
