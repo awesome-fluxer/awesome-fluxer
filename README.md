@@ -53,6 +53,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
+- [FluxerTools](https://fluxertools.com/) - A range of useful tools for Fluxer alongside a list to showcase your server & bot!
 
 ## Bridges
 
