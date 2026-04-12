@@ -12,6 +12,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Libraries](#libraries)
 - [Bots](#bots)
 - [Tools](#tools)
+- [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Theme tools](#theme-tools)
 
@@ -54,6 +55,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
 - [FluxerTools](https://fluxertools.com/) - A range of useful tools for Fluxer alongside a list to showcase your server & bot!
+
+## Plugins
+
+- [fluxer-vscode](https://github.com/3urobeat/fluxer-vscode) - Update your Fluxer status with your VSCode/ium activity!
 
 ## Bridges
 
