@@ -59,6 +59,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
 - [FluxerTools](https://fluxertools.com/) - A range of useful tools for Fluxer alongside a list to showcase your server & bot!
+- [Midnight Tools](https://github.com/BubbaXM/Midnight-Tools/) - Custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients
 
 ## Plugins
 
