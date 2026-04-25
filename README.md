@@ -64,6 +64,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Plugins
 
 - [fluxer-vscode](https://github.com/3urobeat/fluxer-vscode) - Update your Fluxer status with your VSCode/ium activity!
+- [fluxer-bitwig](https://github.com/3urobeat/fluxer-bitwig) - Update your Fluxer status with your Bitwig Studio activity!
 
 ## Bridges
 
