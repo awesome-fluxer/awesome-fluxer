@@ -12,9 +12,9 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Libraries](#libraries)
 - [Bots](#bots)
 - [Tools](#tools)
+- [Client Modifications](#client-modifications)
 - [Plugins](#plugins)
 - [Bridges](#bridges)
-- [Theme tools](#theme-tools)
 - [Hosting](#hosting)
 
 ---
@@ -53,12 +53,16 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Tools
 
 - [fluxer-rpc](https://github.com/letruxux/fluxer-rpc) - mirror your discord rpc to fluxer! 〰️
-- [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
-- [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 - [fluxer-tui](https://github.com/dogbonewish/fluxer-tui) - TUI client for Fluxer
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
 - [FluxerTools](https://fluxertools.com/) - A range of useful tools for Fluxer alongside a list to showcase your server & bot!
+- [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
+
+## Client Modifications
+
+- [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
+- [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 - [Midnight Tools](https://github.com/BubbaXM/Midnight-Tools/) - Custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients
 
 ## Plugins
@@ -71,10 +75,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxcord](https://fluxcord.jbcrn.dev/) - Discord <-> Fluxer bridge
 - [Bifröst](https://github.com/KartoffelChipss/bifrost) - Discord-Fluxer-Bridge
 - [Bolt](https://williamhorn.ing/bolt) - Bridge supporting Discord, Spacebar, Stoat, Telegram, Matrix, and more
-
-## Theme tools
-
-- [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
 
 ## Hosting
 - [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
