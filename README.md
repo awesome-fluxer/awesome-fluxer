@@ -34,6 +34,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
 - [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
+- [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) (Java) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
 
 ## Bots
 
