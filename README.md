@@ -65,7 +65,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [BetterFluxer](https://github.com/RoxyBoxxy/BetterFluxer) - Plugin Injector for the Fluxer.app desktop client
 - [Reflux](https://github.com/Its3rr0rsWRLD/Reflux) - Simple plugin injector for Fluxer
 - [Midnight Tools](https://github.com/BubbaXM/Midnight-Tools/) - Custom add-on experience for Fluxer desktop, similar in spirit to Vencord-style customization for Discord clients
-- [Fluxer Bot List (FBL)](https://fbl.gg) - Your hub in the Fluxer Bot List to discover new bots/servers & themes or list your own for the community.
 
 ## Plugins
 
