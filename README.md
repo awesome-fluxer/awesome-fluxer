@@ -16,6 +16,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Hosting](#hosting)
+- [Experiments with Notes](#experiments-with-notes)
 
 ---
 
@@ -78,4 +79,9 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Bolt](https://williamhorn.ing/bolt) - Bridge supporting Discord, Spacebar, Stoat, Telegram, Matrix, and more
 
 ## Hosting
+
 - [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
+
+## Experiments with Notes
+
+- [2026-05-12: chat embeds.md](https://gist.github.com/daisyUniverse/2d44c42a69a83924fb6823ba5c79ebf6) - Experiments with oEmbed, OpenGraph, and Twitter Summary Cards in Discord, Fluxer, and Telegram [WIP]
