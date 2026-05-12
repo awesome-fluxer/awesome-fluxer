@@ -16,7 +16,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Hosting](#hosting)
-- [Experiments with Detailed Notes](./EXPERIMENTS.md)
+- [Experiments](./EXPERIMENTS.md)
 
 ---
 
