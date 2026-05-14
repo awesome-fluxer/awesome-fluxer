@@ -64,7 +64,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
 
 ## Bots
-
+- [Yuki](https://web.fluxer.app/oauth2/authorize?client_id=1504225063960130146&scope=bot&permissions=51264) - Yuki(Discord bot from 2018) ported by its official owner to fluxer has over 200 commands mostly social ones  
 - [Fluxy](https://github.com/dorkydigital/fluxy) - Everything you need to run a safe, well-organized Fluxer server
 - [Bloo](https://bloo-bot.xyz/) - Powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more
 - [Nevi](https://nevi.nev.so/) - Powerful, feature-rich Fluxer bot built for communities that demand more
