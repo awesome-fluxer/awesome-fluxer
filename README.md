@@ -10,6 +10,13 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Table of contents
 
 - [Libraries](#libraries)
+  - [Python](#python)
+  - [C#](#c)
+  - [JavaScript](#javascript)
+  - [Go](#go)
+  - [Rust](#rust)
+  - [Dart](#dart)
+  - [Java](#java)
 - [Bots](#bots)
 - [Tools](#tools)
 - [Client Modifications](#client-modifications)
@@ -21,20 +28,40 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 ## Libraries
 
-- [Fluxer.py](https://github.com/akarealemil/fluxer.py) (Python) - Python API Wrapper for Fluxer App
-- [Fluxify](https://github.com/Eschryn/Fluxify) (C#) - .NET library for Fluxer
-- [Fluxer.NET](https://fluxer.net/) (C#) - .NET library for building bots and applications on the Fluxer platform
-- [Fluxer.JS](https://fluxer.js.org/) (JS) - SDK for building bots on Fluxer
-- [FluxerGo](https://github.com/fluxergo/fluxergo) (Go) - Go Library for building Fluxer applications (fork of [DisGo](https://github.com/disgoorg/disgo))
-- [Lightning](https://williamhorning.dev/lightning/framework/) (Go) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
-- [Flo](https://github.com/fluxer-flo/flo) (Go) - Cute Go library for making Fluxer bots/self-bots aiming to be simple in implementation and usage
-- [Gofluxer](https://github.com/go-fluxer/gofluxer) (Go) - API wrapper for making fluxer.app bots with.
-- [fluxer-rust](https://github.com/vesaber/fluxer-rust) (Rust) - Rust written API Wrapper for the Discord alternative Fluxer
-- [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) (Rust) - Full Rust API library for Fluxer
-- [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) (Rust) - Crates for interacting with API and gateway, as well as a bot framework
-- [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
-- [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
-- [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) (Java) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
+### Python
+
+- [Fluxer.py](https://github.com/akarealemil/fluxer.py) - Python API Wrapper for Fluxer App
+
+### C#
+
+- [Fluxify](https://github.com/Eschryn/Fluxify) - .NET library for Fluxer
+- [Fluxer.NET](https://fluxer.net/) - .NET library for building bots and applications on the Fluxer platform
+
+### JavaScript
+
+- [Fluxer.JS](https://fluxer.js.org/) - SDK for building bots on Fluxer
+- [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
+
+### Go
+
+- [FluxerGo](https://github.com/fluxergo/fluxergo) - Go Library for building Fluxer applications (fork of [DisGo](https://github.com/disgoorg/disgo))
+- [Lightning](https://williamhorning.dev/lightning/framework/) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
+- [Flo](https://github.com/fluxer-flo/flo) - Cute Go library for making Fluxer bots/self-bots aiming to be simple in implementation and usage
+- [Gofluxer](https://github.com/go-fluxer/gofluxer) - API wrapper for making fluxer.app bots with.
+
+### Rust
+
+- [fluxer-rust](https://github.com/vesaber/fluxer-rust) - Rust written API Wrapper for the Discord alternative Fluxer
+- [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) - Full Rust API library for Fluxer
+- [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) - Crates for interacting with API and gateway, as well as a bot framework
+
+### Dart
+
+- [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) - Official Dart Fluxer Package, for both users and bots.
+
+### Java
+
+- [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
 
 ## Bots
 
