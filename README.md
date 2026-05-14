@@ -38,7 +38,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxify](https://github.com/Eschryn/Fluxify) (C#) - .NET library for Fluxer
 - [Fluxer.NET](https://fluxer.net/) (C#) - .NET library for building bots and applications on the Fluxer platform
 
-### Javascript
+### JavaScript
 
 - [Fluxer.JS](https://fluxer.js.org/) (JS) - SDK for building bots on Fluxer
 
