@@ -77,6 +77,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Remix](https://github.com/remix-bot/fluxer) - Advanced music bot for Fluxer. It is compatible with all the music streaming services for free. All the power just a click away!
 - [Vinto](https://vinto.music/) - Music bot for Fluxer, with support for major streaming services and live streams.
 - [Functious](https://github.com/forgetfulskybro/Fluxer-Functious) - Simple bot that gives you temporary channels, reaction roles, timezone conversion, poll system, giveaways and autoroles
+- [Make it a Quote](https://github.com/ternera/make_it_a_quote) - Make any message into a quote by replying and mentioning the bot.
 
 ## Tools
 
