@@ -59,7 +59,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
 
-### Typescript
+### TypeScript
 
 - [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
 
