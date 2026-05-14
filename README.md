@@ -12,11 +12,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Libraries](#libraries)
   - [Python](#python)
   - [C#](#c)
-  - [Javascript](#javascript)
+  - [JavaScript](#javascript)
   - [Go](#go)
   - [Rust](#rust)
   - [Dart](#dart)
-  - [Typescript](#typescript)
   - [Java](#java)
 - [Bots](#bots)
 - [Tools](#tools)
@@ -41,6 +40,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### JavaScript
 
 - [Fluxer.JS](https://fluxer.js.org/) (JS) - SDK for building bots on Fluxer
+- [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
 
 ### Go
 
@@ -58,10 +58,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Dart
 
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) (Dart) - Official Dart Fluxer Package, for both users and bots.
-
-### TypeScript
-
-- [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) (TS) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
 
 ### Java
 
