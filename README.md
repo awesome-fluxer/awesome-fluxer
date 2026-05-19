@@ -63,6 +63,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
 
+### Zig
+
+- [fluxer-zig](https://github.com/uaaw/fluxer-zig) - Zig api library for fluxer
+
 ## Bots
 
 - [Fluxy](https://github.com/dorkydigital/fluxy) - Everything you need to run a safe, well-organized Fluxer server
