@@ -17,6 +17,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Rust](#rust)
   - [Dart](#dart)
   - [Java](#java)
+  - [Zig](#zig)
 - [Bots](#bots)
 - [Tools](#tools)
 - [Client Modifications](#client-modifications)
