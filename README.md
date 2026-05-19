@@ -17,6 +17,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Rust](#rust)
   - [Dart](#dart)
   - [Java](#java)
+  - [Zig](#zig)
 - [Bots](#bots)
 - [Tools](#tools)
 - [Client Modifications](#client-modifications)
@@ -62,6 +63,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Java
 
 - [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
+
+### Zig
+
+- [fluxer-zig](https://github.com/uaaw/fluxer-zig) - Zig api library for fluxer
 
 ## Bots
 
