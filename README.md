@@ -92,6 +92,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Reaper Tool](https://github.com/rambros3d/disco-reaper) - Migrate your Discord Server to Fluxer, including complete message history.
 - [FluxerTools](https://fluxertools.com/) - A range of useful tools for Fluxer alongside a list to showcase your server & bot!
 - [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
+- [imflux.ing](https://imflux.ing) - Fluxer community vanity url creator. Give your community somewhere to land, with no requirements.
 
 ## Client Modifications
 
