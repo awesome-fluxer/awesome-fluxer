@@ -18,6 +18,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Dart](#dart)
   - [Java](#java)
   - [Zig](#zig)
+  - [Ruby](#ruby)
 - [Bots](#bots)
 - [Tools](#tools)
 - [Client Modifications](#client-modifications)
@@ -32,6 +33,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Python
 
 - [Fluxer.py](https://github.com/akarealemil/fluxer.py) - Python API Wrapper for Fluxer App
+- [fluxerpy3](https://github.com/beennnii/fluxerpy3) - A Python wrapper for the Fluxer web API, inspired by discord.py's design.
 
 ### C#
 
@@ -55,6 +57,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-rust](https://github.com/vesaber/fluxer-rust) - Rust written API Wrapper for the Discord alternative Fluxer
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) - Full Rust API library for Fluxer
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) - Crates for interacting with API and gateway, as well as a bot framework
+- [fluxer-rs](https://tangled.org/awoo.ren/fluxer-rs) - A rust framework for interacting with fluxer instances
 
 ### Dart
 
@@ -63,10 +66,15 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Java
 
 - [Java Fluxer API](https://github.com/Fluxer-JFA/JFA) - Java wrapper for the chat and VOIP platform: Fluxer (fork of [JDA](https://github.com/discord-jda/JDA))
+- [J4Fluxer](https://github.com/why-shiro/J4Fluxer) - Java Framework for Fluxer Bot Development
 
 ### Zig
 
 - [fluxer-zig](https://github.com/uaaw/fluxer-zig) - Zig api library for fluxer
+
+### Ruby
+
+- [fluxerrb](https://codeberg.org/roxannewolf/fluxerrb) - Ruby gem for making Fluxer bots
 
 ## Bots
 
