@@ -93,7 +93,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Make it a Quote](https://github.com/ternera/make_it_a_quote) - Make any message into a quote by replying and mentioning the bot.
 
 ## Tools
-
+- [Fluxer Webhook Studio](https://fluxer-webhook-studio.surge.sh) - A client-side visual manager and rich embed builder for Fluxer webhooks.
 - [fluxer-rpc](https://github.com/letruxux/fluxer-rpc) - mirror your discord rpc to fluxer! 〰️
 - [fluxer-tui](https://github.com/dogbonewish/fluxer-tui) - TUI client for Fluxer
 - [Fluxbase](https://fluxbase.dev) - Your hub in the Fluxerverse to discover new bots or list your own for the community.
