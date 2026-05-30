@@ -21,6 +21,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Ruby](#ruby)
 - [Bots](#bots)
 - [Tools](#tools)
+- [Clients](#clients) 
 - [Client Modifications](#client-modifications)
 - [Plugins](#plugins)
 - [Bridges](#bridges)
@@ -102,6 +103,9 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
 - [imflux.ing](https://imflux.ing) - Fluxer community vanity url creator. Give your community somewhere to land, with no requirements.
 - [Fluxer Webhook Studio](https://fluxer-webhook-studio.surge.sh) - A client-side visual manager and rich embed builder for Fluxer webhooks.
+
+## Clients
+- [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
 
 ## Client Modifications
 
