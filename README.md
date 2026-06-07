@@ -93,6 +93,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Vinto](https://vinto.music/) - Music bot for Fluxer, with support for major streaming services and live streams.
 - [Functious](https://github.com/forgetfulskybro/Fluxer-Functious) - Simple bot that gives you temporary channels, reaction roles, timezone conversion, poll system, giveaways and autoroles
 - [Make it a Quote](https://github.com/ternera/make_it_a_quote) - Make any message into a quote by replying and mentioning the bot.
+- [Fluxmon](https://web.fluxer.app/oauth2/authorize?client_id=1501616165086985154&scope=bot&permissions=137439308864) - Collectible Pokémon game with trading, team battles, and ranked duels
 
 ## Tools
 
