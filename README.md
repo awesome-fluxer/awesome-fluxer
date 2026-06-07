@@ -63,6 +63,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Dart
 
 - [Fluxer Dart SDK](https://github.com/fluxerapp/dart_sdk) - Official Dart Fluxer Package, for both users and bots.
+- [fluxer_api](https://codeberg.org/fluxer_api/fluxer_api) - A package for creating Fluxer bots using the Dart programming language. Not officially endorsed by fluxer.app
 
 ### Java
 
