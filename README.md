@@ -105,6 +105,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-snippets](https://github.com/carlfully/fluxer-snippets) - CSS snippets for fluxer theming
 - [imflux.ing](https://imflux.ing) - Fluxer community vanity url creator. Give your community somewhere to land, with no requirements.
 - [Fluxer Webhook Studio](https://fluxer-webhook-studio.surge.sh) - A client-side visual manager and rich embed builder for Fluxer webhooks.
+- [fluxer-rpc-reader-linux](https://github.com/GiveMeTheButter/fluxer-rpc-reader-linux) - Shows (most) Discord RPC apps in your Fluxer status using only your token.
 
 ## Clients
 - [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
