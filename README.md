@@ -26,6 +26,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Plugins](#plugins)
 - [Bridges](#bridges)
 - [Hosting](#hosting)
+- [Instances](#instances)
 
 ---
 
@@ -129,3 +130,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 ## Hosting
 - [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
+
+## Instances
+
+- [Fluxer World](https://fluxer.world/) - Community Fluxer instance
