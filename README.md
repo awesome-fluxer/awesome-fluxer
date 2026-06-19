@@ -9,24 +9,29 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 ## Table of contents
 
-- [Libraries](#libraries)
-  - [Python](#python)
-  - [C#](#c)
-  - [JavaScript](#javascript)
-  - [Go](#go)
-  - [Rust](#rust)
-  - [Dart](#dart)
-  - [Java](#java)
-  - [Zig](#zig)
-  - [Ruby](#ruby)
-- [Bots](#bots)
-- [Tools](#tools)
-- [Clients](#clients) 
-- [Client Modifications](#client-modifications)
-- [Plugins](#plugins)
-- [Bridges](#bridges)
-- [Hosting](#hosting)
-- [Instances](#instances)
+- [awesome-fluxer](#awesome-fluxer)
+  - [Table of contents](#table-of-contents)
+  - [Libraries](#libraries)
+    - [Python](#python)
+    - [C#](#c)
+    - [JavaScript](#javascript)
+    - [Go](#go)
+    - [Rust](#rust)
+    - [Dart](#dart)
+    - [Java](#java)
+    - [Zig](#zig)
+    - [Ruby](#ruby)
+  - [Bots](#bots)
+  - [Tools](#tools)
+  - [Clients](#clients)
+  - [Client Modifications](#client-modifications)
+  - [Plugins](#plugins)
+  - [Bridges](#bridges)
+  - [Hosting](#hosting)
+  - [Instances](#instances)
+  - [Self Hosting](#self-hosting)
+    - [Self Hosting Guides](#self-hosting-guides)
+    - [Self Hosting Resources](#self-hosting-resources)
 
 ---
 
@@ -134,3 +139,10 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ## Instances
 
 - [Fluxer World](https://fluxer.world/) - Community Fluxer instance
+
+## Self Hosting
+
+### Self Hosting Guides
+- [Fluxer Pangolin](https://github.com/bizojs/fluxer-selfhost-pangolin) - Set up your Fluxer selfhost using Pangolin and Newt
+
+### Self Hosting Resources
