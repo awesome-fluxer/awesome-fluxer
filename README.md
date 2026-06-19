@@ -32,6 +32,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Self Hosting](#self-hosting)
     - [Self Hosting Guides](#self-hosting-guides)
     - [Self Hosting Resources](#self-hosting-resources)
+  - [Development Resources](#development-resources)
 
 ---
 
@@ -146,3 +147,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer Pangolin](https://github.com/bizojs/fluxer-selfhost-pangolin) - Set up your Fluxer selfhost using Pangolin and Newt
 
 ### Self Hosting Resources
+
+## Development Resources
+- [Fluxer dev cheatsheet](https://github.com/bizojs/fluxer-dev-cheatsheet) - A helpful guide for common fluxer development issues
