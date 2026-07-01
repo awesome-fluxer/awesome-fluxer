@@ -87,7 +87,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 ## Bots
 
-- [Fluxy](https://github.com/dorkydigital/fluxy) - Everything you need to run a safe, well-organized Fluxer server
+- [Fluxy](https://docs.fluxy.gay/) - Everything you need to run a safe, well-organized Fluxer server
 - [Bloo](https://bloo-bot.xyz/) - Powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more
 - [Nevi](https://nevi.nev.so/) - Powerful, feature-rich Fluxer bot built for communities that demand more
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
