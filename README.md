@@ -155,6 +155,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer Pangolin](https://github.com/bizojs/fluxer-selfhost-pangolin) - Set up your Fluxer selfhost using Pangolin and Newt
 
 ### Self Hosting Resources
+- [The Fluxer Directory](https://fluxer.directory) - A hub for users to discover community-hosted fluxer instances and list their own
 
 ## Development Resources
 - [Bot Development Guild](https://fluxer.gg/cAy3CNcu) - A Fluxer guild dedicated to continuing the Fluxer bot ecosystem.
