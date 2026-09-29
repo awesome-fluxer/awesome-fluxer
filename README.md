@@ -110,6 +110,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Pluuty](https://pluuty.com) - All-in-one Fluxer bot for moderation, leveling, welcome, music, giveaways, modmail, and more. Dashboard-first, works on fluxer.app and self-hosted Fluxer, with optional whitelabel.
 - [Phony](https://codeberg.org/everyname/phony) - Phony is a Fluxer bot that creates "phony channels", voice channels which disappear when everyone leaves. [Add the Phony bot to your Fluxer.app community](https://web.fluxer.app/oauth2/authorize?client_id=1505390819898610586&scope=bot&permissions=4503599627373584).
 - [Make it a Quote for Fluxer](https://web.fluxer.app/oauth2/authorize?client_id=1528621093315678209&scope=bot&permissions=105472) - Make it a Quote for fluxer, from the same developers behind [Make it a Quote for Discord/Bluesky](https://miq.moe/).
+- [Netrcol](https://netrcol.com) - All-in-one Fluxer bot for moderation, tickets, levels and logging, configured from a web dashboard
 - [GameHound](https://gamehound.xyz) - Posts every free game from Epic, Steam, GOG, itch.io and more to your server the moment it goes free, with store, type and price filters
 
 ## Tools
@@ -156,6 +157,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer Pangolin](https://github.com/bizojs/fluxer-selfhost-pangolin) - Set up your Fluxer selfhost using Pangolin and Newt
 
 ### Self Hosting Resources
+- [The Fluxer Directory](https://fluxer.directory) - A hub for users to discover community-hosted fluxer instances and list their own
 
 ## Development Resources
 - [Bot Development Guild](https://fluxer.gg/cAy3CNcu) - A Fluxer guild dedicated to continuing the Fluxer bot ecosystem.
