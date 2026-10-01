@@ -124,6 +124,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer Webhook Studio](https://fluxer-webhook-studio.surge.sh) - A client-side visual manager and rich embed builder for Fluxer webhooks.
 - [fluxer-rpc-reader-linux](https://github.com/GiveMeTheButter/fluxer-rpc-reader-linux) - Shows (most) Discord RPC apps in your Fluxer status using only your token.
 - [fluxer.name](https://fluxer.name) - Claim a public profile page for your Fluxer identity: avatar, status, bio, badges, links, and socials in one link for your bio.
+- [Fluxer-Spotify](https://github.com/KetaLP-hub/Fluxer-Spotify) - Shows your Spotify now-playing, playlist, top artist and listening time as a rotating Fluxer status; Windows exe that runs hidden in the background.
 
 ## Clients
 - [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
