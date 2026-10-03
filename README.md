@@ -52,6 +52,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Fluxer.JS](https://fluxer.js.org/) - SDK for building bots on Fluxer
 - [Fluxer.ts](https://github.com/zeroxs/fluxer.ts) - TypeScript-first library for building Fluxer bots, with types generated from the OpenAPI spec
+- [Talos](https://github.com/tinsever/talos) - TypeScript-first SDK for Fluxer bots, REST, gateway, and voice, with no runtime dependencies
 
 ### Go
 
