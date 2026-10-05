@@ -29,9 +29,9 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
   - [Plugins](#plugins)
   - [Bridges](#bridges)
   - [Hosting](#hosting)
+  - [Listing Sites](#listing-sites)
   - [Self Hosting](#self-hosting)
     - [Self Hosting Guides](#self-hosting-guides)
-    - [Self Hosting Resources](#self-hosting-resources)
   - [Development Resources](#development-resources)
 
 ---
@@ -127,6 +127,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Fluxer-Spotify](https://github.com/KetaLP-hub/Fluxer-Spotify) - Shows your Spotify now-playing, playlist, top artist and listening time as a rotating Fluxer status; Windows exe that runs hidden in the background.
 
 ## Clients
+
 - [D-Mail](https://codeberg.org/actusreus/dmail) - A truly native Android client written in Java and View
 - [fluxer-tui](https://github.com/AIVirtuoso/fluxer-tui) - TUI client for Fluxer
 - [Fluxtop](https://github.com/Patrosi73/Fluxtop) - A modified Discord alternate client (Vesktop) that connects to Fluxer APIs
@@ -150,16 +151,20 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Orax](https://oraxbot.com) - Cross-server and cross-platform chat bridge that syncs messages between Discord and Fluxer
 
 ## Hosting
+
 - [fluxer.host](https://fluxer.host) - Free US/EU Hosting for Fluxer bots, bridges, and community tools.
+
+## Listing Sites
+- [The Fluxer Directory](https://fluxer.directory) - A hub for users to discover community-hosted fluxer instances and list their own
+- [The Fluxerverse](https://fluxerverse.com) - No discovery? No problem! List your community here, regardless of size or discovery status. From fluxer.com to self-hosted communities, find new communities wherever they may be.
 
 ## Self Hosting
 
 ### Self Hosting Guides
+
 - [Fluxer Pangolin](https://github.com/bizojs/fluxer-selfhost-pangolin) - Set up your Fluxer selfhost using Pangolin and Newt
 
-### Self Hosting Resources
-- [The Fluxer Directory](https://fluxer.directory) - A hub for users to discover community-hosted fluxer instances and list their own
-
 ## Development Resources
+
 - [Bot Development Guild](https://fluxer.gg/cAy3CNcu) - A Fluxer guild dedicated to continuing the Fluxer bot ecosystem.
 - [Fluxer dev cheatsheet](https://github.com/bizojs/fluxer-dev-cheatsheet) - A helpful guide for common fluxer development issues
