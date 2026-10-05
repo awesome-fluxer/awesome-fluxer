@@ -63,7 +63,6 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 ### Rust
 
-- [fluxer-rust](https://github.com/vesaber/fluxer-rust) - Rust written API Wrapper for the Discord alternative Fluxer
 - [Fluxer.RUST](https://github.com/DeviMorris/Fluxer.RUST) - Full Rust API library for Fluxer
 - [fluxer-neptunium](https://github.com/PilkeySEK/fluxer-neptunium) - Crates for interacting with API and gateway, as well as a bot framework
 - [fluxer-rs](https://tangled.org/awoo.ren/fluxer-rs) - A rust framework for interacting with fluxer instances
