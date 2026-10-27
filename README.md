@@ -80,6 +80,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Zig
 
 - [fluxer-zig](https://github.com/uaaw/fluxer-zig) - Zig api library for fluxer
+- [fluxer.zig](https://codeberg.org/pparaxan/fluxer.zig) - Zig library for building Fluxer applications!
 
 ### Ruby
 
