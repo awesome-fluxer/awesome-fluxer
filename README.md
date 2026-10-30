@@ -114,6 +114,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Netrcol](https://netrcol.com) - All-in-one Fluxer bot for moderation, tickets, levels and logging, configured from a web dashboard
 - [GameHound](https://gamehound.xyz) - Posts every free game from Epic, Steam, GOG, itch.io and more to your server the moment it goes free, with store, type and price filters
 - [Voicey](https://web.fluxer.app/oauth2/authorize?client_id=1553833004374175744&scope=bot&permissions=18014398810778736) - Create and manage temporary voice channels with Voicey. Simple Join-to-Create, powerful voice controls, and an easy setup.
+- [RPG THING](https://web.fluxer.app/oauth2/authorize?client_id=1560750128443174912&scope=bot&permissions=330816) - Chat RPG with hunting, fishing, farming, secret crafting recipes, bosses and duels.
 - [misery](https://misery.app) - All-in-one Fluxer bot with Antinuke, Moderation, Levels, Music, Last.FM, Giveaways and a web dashboard.
 
 ## Tools
