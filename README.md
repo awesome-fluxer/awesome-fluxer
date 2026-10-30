@@ -80,6 +80,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 ### Zig
 
 - [fluxer-zig](https://github.com/uaaw/fluxer-zig) - Zig api library for fluxer
+- [fluxer.zig](https://codeberg.org/pparaxan/fluxer.zig) - Zig library for building Fluxer applications!
 
 ### Ruby
 
@@ -114,6 +115,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [GameHound](https://gamehound.xyz) - Posts every free game from Epic, Steam, GOG, itch.io and more to your server the moment it goes free, with store, type and price filters
 - [Voicey](https://web.fluxer.app/oauth2/authorize?client_id=1553833004374175744&scope=bot&permissions=18014398810778736) - Create and manage temporary voice channels with Voicey. Simple Join-to-Create, powerful voice controls, and an easy setup.
 - [RPG THING](https://web.fluxer.app/oauth2/authorize?client_id=1560750128443174912&scope=bot&permissions=330816) - Chat RPG with hunting, fishing, farming, secret crafting recipes, bosses and duels.
+- [misery](https://misery.app) - All-in-one Fluxer bot with Antinuke, Moderation, Levels, Music, Last.FM, Giveaways and a web dashboard.
 
 ## Tools
 
@@ -127,6 +129,8 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [fluxer-rpc-reader-linux](https://github.com/GiveMeTheButter/fluxer-rpc-reader-linux) - Shows (most) Discord RPC apps in your Fluxer status using only your token.
 - [fluxer.name](https://fluxer.name) - Claim a public profile page for your Fluxer identity: avatar, status, bio, badges, links, and socials in one link for your bio.
 - [Fluxer-Spotify](https://github.com/KetaLP-hub/Fluxer-Spotify) - Shows your Spotify now-playing, playlist, top artist and listening time as a rotating Fluxer status; Windows exe that runs hidden in the background.
+- [Scratch For Fluxer](https://scratch.fluxer.my) - Drag blocks like you would in Scratch, read the real Python they write, then run your bot. Made for people learning the Fluxer bot API with fluxer.py.
+- [Fluxer Forge](https://github.com/KorryKatti/fluxer-forge) - Self-hosted bot builder for Fluxer: configure modules in the browser and download a ready-to-run Go binary.
 
 ## Clients
 
