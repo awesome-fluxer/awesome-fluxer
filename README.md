@@ -116,7 +116,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Voicey](https://web.fluxer.app/oauth2/authorize?client_id=1553833004374175744&scope=bot&permissions=18014398810778736) - Create and manage temporary voice channels with Voicey. Simple Join-to-Create, powerful voice controls, and an easy setup.
 - [RPG THING](https://web.fluxer.app/oauth2/authorize?client_id=1560750128443174912&scope=bot&permissions=330816) - Chat RPG with hunting, fishing, farming, secret crafting recipes, bosses and duels.
 - [misery](https://misery.app) - All-in-one Fluxer bot with Antinuke, Moderation, Levels, Music, Last.FM, Giveaways and a web dashboard.
-- [franz hermann](https://fluxer.com/oauth2/authorize?client_id=1566837767571247107&scope=bot&permissions=274878171200) - Fluxer bot for Formula 1 stats and metrics
+- [franz hermann](https://korrykatti.github.io/franz-hermann/) - Fluxer bot for Formula 1 stats and metrics
 
 ## Tools
 
