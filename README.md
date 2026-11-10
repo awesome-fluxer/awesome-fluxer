@@ -117,6 +117,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [RPG THING](https://web.fluxer.app/oauth2/authorize?client_id=1560750128443174912&scope=bot&permissions=330816) - Chat RPG with hunting, fishing, farming, secret crafting recipes, bosses and duels.
 - [misery](https://misery.app) - All-in-one Fluxer bot with Antinuke, Moderation, Levels, Music, Last.FM, Giveaways and a web dashboard.
 - [franz hermann](https://korrykatti.github.io/franz-hermann/) - Fluxer bot for Formula 1 stats and metrics
+- [compiler](https://fluxerlist.com/bots/compiler) - Compile and run code snippets in your chat in over 20+ languages.
 
 ## Tools
 
