@@ -94,6 +94,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 
 - [Fluxy](https://docs.fluxy.gay/) - Everything you need to run a safe, well-organized Fluxer server
 - [Bloo](https://bloo-bot.xyz/) - Powerful, bubbly Fluxer bot packed with moderation, XP ranking, webhooks, tickets, and so much more
+- [Cakey Bot](https://cakey.bot) - Feature-rich multiple purpose bot. Localized across 12+ languages and includes major features like tickets, auto mod, leveling/xp, economy and more.
 - [Nevi](https://nevi.nev.so/) - Powerful, feature-rich Fluxer bot built for communities that demand more
 - [Fishing Bucket](https://github.com/HellishBro/FishingBucket) - Fluxer bot that proxies messages as different users
 - [Fluxer.Red](https://github.com/Red-Fluxer-Patches/Red-DiscordBot) - Multi-function Discord bot patched to work with Fluxer (COMPLETELY UNSUPPORTED)
