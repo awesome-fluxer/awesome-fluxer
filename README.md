@@ -60,6 +60,7 @@ See [CONTRIBUTING.md](https://github.com/awesome-fluxer/awesome-fluxer/blob/main
 - [Lightning](https://williamhorning.dev/lightning/framework/) - Cross-platform bot library supporting Fluxer, in addition to Discord, Spacebar, Stoat, Telegram, Matrix, and more
 - [Flo](https://github.com/fluxer-flo/flo) - Cute Go library for making Fluxer bots/self-bots aiming to be simple in implementation and usage
 - [Gofluxer](https://github.com/go-fluxer/gofluxer) - API wrapper for making fluxer.app bots with.
+- [fluxer-go](https://github.com/invaliduser231/fluxer-go) - REST client, gateway, typed events, state cache and voice over LiveKit, with a fake server for tests
 
 ### Rust
 
